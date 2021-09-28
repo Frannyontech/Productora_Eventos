@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: MyString
+  date_event: 2021-09-28
+  group: one
+
+two:
+  location: MyString
+  date_event: 2021-09-28
+  group: two
