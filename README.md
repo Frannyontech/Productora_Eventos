@@ -1,24 +1,11 @@
-# README
+# Productora de Eventos
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Descripción
+Daniela, encargada del área de eventos de la productora de eventos DL, ha tenido problemas
+registrando la cantidad de personas que van a los distintos conciertos de los grupos que
+tiene a su cargo, esto es muy importante para poder ver cuanto alcance tiene realmente
+cada grupo y poder ver sus proyecciones.
+Normalmente las cifras varían una vez terminado el evento, por lo que es necesario poder
+modificar la cantidad de asistentes a los conciertos después de haber sido ingresados y a
+su vez poder borrar registros erróneamente registrados.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
